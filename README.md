@@ -5,7 +5,8 @@
 
 ## 배포
 
-- **배포 주소**: (아래 안내에 따라 GitHub Pages로 배포 후 이 줄에 기록)
+- **배포 주소**: https://ndh3954-prog.github.io/shopping-toolbox-free/ (GitHub Pages, `main` 브랜치 `/ (root)`)
+- 저장소: https://github.com/ndh3954-prog/shopping-toolbox-free
 - 로컬 프로젝트 폴더: `~/shopping-toolbox-free` (main 파일은 `index.html`)
 - 수정할 때: `index.html`을 고쳐서 커밋 후 `git push` 하면 1~2분 내 반영됨
 
